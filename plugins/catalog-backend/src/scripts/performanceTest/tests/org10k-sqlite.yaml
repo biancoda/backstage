@@ -1,0 +1,16 @@
+backend:
+  baseUrl: http://localhost:7000
+  listen:
+    port: 7000
+  database:
+    client: sqlite3
+    connection: ':memory:'
+
+integrations: {}
+
+performanceTest:
+  data:
+    mockOrg:
+      userCount: 500
+      groupCount: 500
+      userMemberOfGroupsCountMax: 10
