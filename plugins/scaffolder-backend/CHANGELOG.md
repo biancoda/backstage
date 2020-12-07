@@ -1,5 +1,13 @@
 # @backstage/plugin-scaffolder-backend
 
+## 0.3.4
+
+### Patch Changes
+
+- 1e22f8e0b: Unify `dockerode` library and type dependency versions
+- Updated dependencies [83b6e0c1f]
+  - @backstage/catalog-model@0.5.0
+
 ## 0.3.3
 
 ### Patch Changes

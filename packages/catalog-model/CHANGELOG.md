@@ -1,5 +1,13 @@
 # @backstage/catalog-model
 
+## 0.5.0
+
+### Minor Changes
+
+- 83b6e0c1f: Remove the deprecated fields `ancestors` and `descendants` from the `Group` entity.
+
+  See https://github.com/backstage/backstage/issues/3049 and the PRs linked from it for details.
+
 ## 0.4.0
 
 ### Minor Changes

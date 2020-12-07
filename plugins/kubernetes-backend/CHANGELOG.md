@@ -1,5 +1,12 @@
 # @backstage/plugin-kubernetes-backend
 
+## 0.2.2
+
+### Patch Changes
+
+- Updated dependencies [83b6e0c1f]
+  - @backstage/catalog-model@0.5.0
+
 ## 0.2.1
 
 ### Patch Changes

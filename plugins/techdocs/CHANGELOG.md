@@ -1,5 +1,25 @@
 # @backstage/plugin-techdocs
 
+## 0.4.0
+
+### Minor Changes
+
+- 87a33d2fe: Removed modifyCss transformer and moved the css to injectCss transformer
+  Fixed issue where some internal doc links would cause a reload of the page
+
+### Patch Changes
+
+- Updated dependencies [b6557c098]
+- Updated dependencies [6011b7d3e]
+- Updated dependencies [83b6e0c1f]
+- Updated dependencies [1665ae8bb]
+- Updated dependencies [ff243ce96]
+  - @backstage/core-api@0.2.5
+  - @backstage/plugin-catalog@0.2.6
+  - @backstage/catalog-model@0.5.0
+  - @backstage/theme@0.2.2
+  - @backstage/core@0.4.0
+
 ## 0.3.1
 
 ### Patch Changes

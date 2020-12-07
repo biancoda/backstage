@@ -1,5 +1,20 @@
 # @backstage/plugin-lighthouse
 
+## 0.2.5
+
+### Patch Changes
+
+- Updated dependencies [b6557c098]
+- Updated dependencies [6011b7d3e]
+- Updated dependencies [83b6e0c1f]
+- Updated dependencies [1665ae8bb]
+- Updated dependencies [ff243ce96]
+  - @backstage/core-api@0.2.5
+  - @backstage/plugin-catalog@0.2.6
+  - @backstage/catalog-model@0.5.0
+  - @backstage/theme@0.2.2
+  - @backstage/core@0.4.0
+
 ## 0.2.4
 
 ### Patch Changes

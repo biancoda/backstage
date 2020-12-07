@@ -1,5 +1,19 @@
 # @backstage/plugin-catalog-backend
 
+## 0.4.0
+
+### Minor Changes
+
+- 83b6e0c1f: Remove the deprecated fields `ancestors` and `descendants` from the `Group` entity.
+
+  See https://github.com/backstage/backstage/issues/3049 and the PRs linked from it for details.
+
+### Patch Changes
+
+- 047c018c9: Batch the fetching of relations
+- Updated dependencies [83b6e0c1f]
+  - @backstage/catalog-model@0.5.0
+
 ## 0.3.0
 
 ### Minor Changes
